@@ -2,7 +2,7 @@
 A list of quality APIs intended for Discord Bots.
 
 ## Breakdown
-This section will breakdown the sections on this API list
+This section will breakdown the different arguments on the list.
 
 ### API Name
 The name of the API, click on the name to visit the API's landing page.
