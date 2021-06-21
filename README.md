@@ -11,7 +11,7 @@ The name of the API, click on the name to visit the API's landing page.
 The API's documentation. Possible options:
 - None - The API doesn't have any documentation.
 - [View Docs]() - The API does have documentation, and you can click on 'View Docs' to see the it.
-- EOW - Explained on website. The API doesn't have any documentation page, but there is a good explaination of the API on the bot's landing page.
+- EOW - Explained on website. The API doesn't have any documentation page, but there is a good explaination of the API on the landing page.
 
 ## Jokes and Memes
 | API Name        | Documentation |
@@ -19,6 +19,7 @@ The API's documentation. Possible options:
 | [API Meme](http://apimeme.com/) | None
 | [Joke API](https://v2.jokeapi.dev/joke) | [View Docs](https://v2.jokeapi.dev/)
 | [Chuck Norris API](https://api.chucknorris.io/) | EOW
+| [icanhazdadjoke](https://icanhazdadjoke.com/) | [View Docs](https://icanhazdadjoke.com/api)
 
 ## Animals
 | API Name        | Documentation
@@ -30,3 +31,12 @@ The API's documentation. Possible options:
 | ------------    |:-------------:|
 | [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com)
 
+## Games
+| API Name        | Documentation
+| ------------    |:-------------:|
+| [Deck of Cards](https://deckofcardsapi.com/) | EOW
+
+## Nature and Places
+| API Name        | Documentation
+| ------------    |:-------------:|
+| [NASA](https://api.nasa.gov/) | EOW
