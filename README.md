@@ -14,29 +14,36 @@ The API's documentation. Possible options:
 - EOW - Explained on website. The API doesn't have any documentation page, but there is a good explaination of the API on the landing page.
 
 ## Jokes and Memes
-| API Name        | Documentation |
-| -------------   |:-------------:|
-| [API Meme](http://apimeme.com/) | None
-| [Joke API](https://v2.jokeapi.dev/joke) | [View Docs](https://v2.jokeapi.dev/)
-| [Chuck Norris API](https://api.chucknorris.io/) | EOW
-| [icanhazdadjoke](https://icanhazdadjoke.com/) | [View Docs](https://icanhazdadjoke.com/api)
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- | 
+| [API Meme](http://apimeme.com/) | None |  A basic meme API. | No
+| [Joke API](https://v2.jokeapi.dev/joke) | [View Docs](https://v2.jokeapi.dev/) | A API for jokes. | Partially
+| [Chuck Norris API](https://api.chucknorris.io/) | EOW | Chucknorris jokes and memes. | No
+| [icanhazdadjoke](https://icanhazdadjoke.com/) | [View Docs](https://icanhazdadjoke.com/api) | *Funny* dad jokes. | Partially
 
 ## Animals
-| API Name        | Documentation
-| ------------    |:-------------:|
-| [random.dog](https://random.dog/woof.json) | None
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [random.dog](https://random.dog/woof.json) | None | Get random cute dogs. | No
 
 ## Randomization
-| API Name        | Documentation
-| ------------    |:-------------:|
-| [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com)
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com) | A multi-purpose API that deals with numbers. | No
 
 ## Games
-| API Name        | Documentation
-| ------------    |:-------------:|
-| [Deck of Cards](https://deckofcardsapi.com/) | EOW
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [Deck of Cards](https://deckofcardsapi.com/) | EOW | Create your own card game. | No
 
 ## Nature and Places
-| API Name        | Documentation
-| ------------    |:-------------:|
-| [NASA](https://api.nasa.gov/) | EOW
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [NASA](https://api.nasa.gov/) | EOW | Official API of NASA. | No
+
+## Anime, Manga, Nekos
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+[Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
+[nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
+[nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
