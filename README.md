@@ -13,6 +13,15 @@ The API's documentation. Possible options:
 - [View Docs]() - The API does have documentation, and you can click on 'View Docs' to see the it.
 - EOW - Explained on website. The API doesn't have any documentation page, but there is a good explaination of the API on the landing page.
 
+### Description
+A more specific explaination of the APIs intended use.
+
+### NSFW
+Whether the API is NSFW (not-safe-for-work) or not. Possible options:
+- No - The API doesn't contain any NSFW content.
+- Partially - Only some parts of the API are NSFW, or there is a way to filter NSFW content.
+- Yes - The API is mostly based on NSFW content.
+
 ## Jokes and Memes
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- | 
@@ -20,6 +29,14 @@ The API's documentation. Possible options:
 | [Joke API](https://v2.jokeapi.dev/joke) | [View Docs](https://v2.jokeapi.dev/) | A API for jokes. | Partially
 | [Chuck Norris API](https://api.chucknorris.io/) | EOW | Chucknorris jokes and memes. | No
 | [icanhazdadjoke](https://icanhazdadjoke.com/) | [View Docs](https://icanhazdadjoke.com/api) | *Funny* dad jokes. | Partially
+| [Cool-Img](https://api.cool-img-api.ml/) | None | Allows developers/users to customize meme templates. | No
+| [Devs-Hub](https://api.devs-hub.xyz/) | None | Allows developers/users to customize meme templates (also includes some utility features). | No
+| [Vacefron](https://vacefron.nl/api/) | None | Allows developers/users to customize meme templates. | No
+
+## General 
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- | 
+| [No-API-Key](https://no-api-key.com/) | [View Docs](https://docs.no-api-key.com/) | A multi-purpose API, no API keys. | No
 
 ## Animals
 | API Name        | Documentation | Description | NSFW
@@ -47,3 +64,4 @@ The API's documentation. Possible options:
 [Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
 [nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
 [nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
+[YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
