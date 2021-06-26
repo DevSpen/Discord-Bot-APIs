@@ -58,7 +58,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 [nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
 [nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
 [YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
-[NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Partially
+[NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Arrangement of nekos and utilites. | Partially
 
 *[Back To Index](#index)*
 
