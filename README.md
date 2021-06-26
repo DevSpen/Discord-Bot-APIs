@@ -46,6 +46,8 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
 | [random.dog](https://random.dog/woof.json) | None | Get random cute dogs. | No
+| [Dog CEO](https://dog.ceo/dog-api/) | [View Docs](https://dog.ceo/dog-api/documentation/) | Adorable dog image generation. | No
+| [Random Fox](https://randomfox.ca/) | None | Delightful fox images. | No
 
 *[Back To Index](#index)*
 
@@ -56,6 +58,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 [nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
 [nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
 [YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
+[NekoBot](https://nekobot.xyz/) | [View Docs](https://docs.nekobot.xyz/) | Partially
 
 *[Back To Index](#index)*
 
@@ -70,7 +73,7 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
 | [Deck of Cards](https://deckofcardsapi.com/) | EOW | Create your own card game. | No
-
+| [Poke API](https://pokeapi.co/) | [View Docs](https://pokeapi.co/docs/v2) | All the Pokémon data you'll ever need in one place. | No
 *[Back To Index](#index)*
 
 ## General 
@@ -78,6 +81,9 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | -------------   |:-------------:| ------------- | ------------- | 
 | [No-API-Key](https://no-api-key.com/) | [View Docs](https://docs.no-api-key.com/) | A multi-purpose API, no API keys. | No
 | [AlexFlipnote](https://api.alexflipnote.dev/) | None | A multi-purpose API with meme and utility features. | No
+| [BETA API](beta-api.tk) | [View Docs](https://docs.beta-api.tk/) | Lots of helpful features and utilities. | No
+| [Avux API](https://api.avux.ga/) | [View Docs](https://docs.avux.ga/) | Includes features like anime, NSFW, and more. | Partially
+| [Some Random API](https://some-random-api.ml/) | [View Docs](https://some-random-api.ml/docs/welcome/introduction) | A assortment of random endpoints.
 
 *[Back To Index](#index)*
 
