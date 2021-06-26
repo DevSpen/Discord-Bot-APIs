@@ -1,6 +1,25 @@
 # Discord Bot APIs
 A list of quality APIs intended for Discord Bots.
 
+> We get accept any public and ethical API, that can be used when creating Discord Bots.
+
+> Disclaimer: Most APIs are added to this list without any direct notice to the owner of the API. If you would like your API removed, please DM me (`Spen#0999`) on Discord. We are not affliated with any API, nor do we endorse any API on this list.
+
+## Index
+**APIs**
+- [Animals](#animals)
+- [Anime, Manga, Nekos](#anime-manga-nekos)
+- [Games](#games)
+- [General](#general)
+- [Jokes and Memes](#jokes-and-memes)
+- [Nature and Places](#nature-and-places)
+- [Randomization](#randomization)
+
+**Main**
+- [Home](#discord-bot-apis)
+- [Index](#index)
+- [Breakdown](#breakdown)
+
 ## Breakdown
 This section will breakdown the different arguments on the list.
 
@@ -10,7 +29,7 @@ The name of the API, click on the name to visit the API's landing page.
 ### Documentation
 The API's documentation. Possible options:
 - None - The API doesn't have any documentation.
-- [View Docs]() - The API does have documentation, and you can click on 'View Docs' to see the it.
+- [View Docs]() - The API does have documentation, and you can click on 'View Docs' to see it.
 - EOW - Explained on website. The API doesn't have any documentation page, but there is a good explaination of the API on the landing page.
 
 ### Description
