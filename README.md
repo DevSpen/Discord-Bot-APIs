@@ -9,6 +9,7 @@ A list of quality APIs intended for Discord Bots.
 **APIs**
 - [Animals](#animals)
 - [Anime, Manga, Nekos](#anime-manga-nekos)
+- [Chat-Bot](#chat-bot)
 - [Games](#games)
 - [General](#general)
 - [Jokes and Memes](#jokes-and-memes)
@@ -41,6 +42,45 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 - Partially - Only some parts of the API are NSFW, or there is a way to filter NSFW content.
 - Yes - The API is mostly based on NSFW content.
 
+## Animals
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [random.dog](https://random.dog/woof.json) | None | Get random cute dogs. | No
+
+*[Back To Index](#index)*
+
+## Anime, Manga, Nekos
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+[Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
+[nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
+[nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
+[YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
+
+*[Back To Index](#index)*
+
+## Chat-Bot
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [Affiliate+](https://api.affiliateplus.xyz/api/docs) | EOW | A useful chat bot API. | No
+
+*[Back To Index](#index)*
+
+## Games
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- |
+| [Deck of Cards](https://deckofcardsapi.com/) | EOW | Create your own card game. | No
+
+*[Back To Index](#index)*
+
+## General 
+| API Name        | Documentation | Description | NSFW
+| -------------   |:-------------:| ------------- | ------------- | 
+| [No-API-Key](https://no-api-key.com/) | [View Docs](https://docs.no-api-key.com/) | A multi-purpose API, no API keys. | No
+| [AlexFlipnote](https://api.alexflipnote.dev/) | None | A multi-purpose API with meme and utility features. | No
+
+*[Back To Index](#index)*
+
 ## Jokes and Memes
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- | 
@@ -52,35 +92,18 @@ Whether the API is NSFW (not-safe-for-work) or not. Possible options:
 | [Devs-Hub](https://api.devs-hub.xyz/) | None | Allows developers/users to customize meme templates (also includes some utility features). | No
 | [Vacefron](https://vacefron.nl/api/) | None | Allows developers/users to customize meme templates. | No
 
-## General 
-| API Name        | Documentation | Description | NSFW
-| -------------   |:-------------:| ------------- | ------------- | 
-| [No-API-Key](https://no-api-key.com/) | [View Docs](https://docs.no-api-key.com/) | A multi-purpose API, no API keys. | No
-
-## Animals
-| API Name        | Documentation | Description | NSFW
-| -------------   |:-------------:| ------------- | ------------- |
-| [random.dog](https://random.dog/woof.json) | None | Get random cute dogs. | No
-
-## Randomization
-| API Name        | Documentation | Description | NSFW
-| -------------   |:-------------:| ------------- | ------------- |
-| [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com) | A multi-purpose API that deals with numbers. | No
-
-## Games
-| API Name        | Documentation | Description | NSFW
-| -------------   |:-------------:| ------------- | ------------- |
-| [Deck of Cards](https://deckofcardsapi.com/) | EOW | Create your own card game. | No
+*[Back To Index](#index)*
 
 ## Nature and Places
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
 | [NASA](https://api.nasa.gov/) | EOW | Official API of NASA. | No
 
-## Anime, Manga, Nekos
+*[Back To Index](#index)*
+
+## Randomization
 | API Name        | Documentation | Description | NSFW
 | -------------   |:-------------:| ------------- | ------------- |
-[Animechan](https://animechan.vercel.app/)  | [View Docs](https://animechan.vercel.app/guide) | Quality anime quotes. | No
-[nekos.best](https://nekos.best) | [View Docs](https://docs.nekos.best/) | A API for returning neko images. | No
-[nekos.life](https://nekos.life/) | None | A API dedicated to nekos. | Partially
-[YuaBot](https://yuabot.com/api/) | EOW | Anime emotes/GIFs. | No
+| [Numbers API](http://numbersapi.com) | [View Docs](http://numbersapi.com) | A multi-purpose API that deals with numbers. | No
+
+*[Back To Index](#index)*
